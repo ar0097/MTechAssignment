@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MTechAssignment/static/css/main.583b5fc5.css",
+    "main.js": "/MTechAssignment/static/js/main.9117f26b.js",
+    "index.html": "/MTechAssignment/index.html",
+    "main.583b5fc5.css.map": "/MTechAssignment/static/css/main.583b5fc5.css.map",
+    "main.9117f26b.js.map": "/MTechAssignment/static/js/main.9117f26b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.583b5fc5.css",
+    "static/js/main.9117f26b.js"
+  ]
+}
